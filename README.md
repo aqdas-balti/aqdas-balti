@@ -1,5 +1,4 @@
 Hello!!!
-
 👋 I am a passionate and dedicated fresher in the programming field, specializing in JavaScript. 
 With intermediate-level skills, I am eager to embark on a rewarding journey of professional growth 
 and contribute to innovative projects. 💻🚀
