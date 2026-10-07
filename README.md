@@ -1,4 +1,4 @@
-<a href="https://aqdas-ali.vercel.app"><img src="./header.svg" alt="Aqdas Ali · Full-Stack Developer" width="100%"></a>
+<a href="https://aqdas-ali.vercel.app"><img src="./profile-banner.svg" alt="Aqdas Ali · Full-Stack Developer" width="100%"></a>
 
 <p align="center">
   <a href="https://aqdas-ali.vercel.app"><img src="https://img.shields.io/badge/Portfolio-aqdas--ali.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>

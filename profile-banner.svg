@@ -37,5 +37,5 @@
   <text x="76" y="190" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="78" font-weight="700" fill="url(#name)">Aqdas Ali</text>
   <text x="80" y="244" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="28" fill="#eeedf7"><tspan fill="#b69cff">&gt;</tspan> Full-Stack Developer</text>
 
-  <text x="1200" y="290" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#a3a1b8">NestJS · React · Django · AI Agents</text>
+  <text x="1200" y="290" text-anchor="end" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="17" fill="#a3a1b8">Python · NestJS · React · Django · AI Agents</text>
 </svg>
